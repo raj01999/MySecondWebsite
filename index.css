@@ -77,6 +77,10 @@ nav li:hover{
     margin: 0 10px;
 }
 
+.left-col{
+    margin-left: 3vw;
+}
+
 .three-col img{
     border-radius: 50%;
     border: 3px solid #3F8DA7;
